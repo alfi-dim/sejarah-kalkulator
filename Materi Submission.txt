@@ -1,0 +1,40 @@
+Kalkulator merupakan alat hitung yang praktis. 
+Ada berbagai macam kalkulator, mulai dari yang sederhana seperti kalkulator dagang hingga scientific calculator yang menggunakan rumus-rumus rumit
+Kalkulator juga merupakan salah satu alat yang akrab dengan kehidupan kita sehari-hari. 
+Bahkan, alat hitung tersebut kini dengan mudah kita akses di telepon genggam. 
+Namun, pernahkah Anda bertanya, bagaimana sejarah kalkulator hingga bisa digunakan seperti sekarang ini?
+
+Asal usul kalkulator bisa dilacak hingga ke lima ribu tahun yang lalu (3000 SM), ketika bangsa Asia Kecil—dan di beberapa tempat lain—menggunakan alat hitung sederhana yang disebut Abacus. 
+Alat tersebut memungkinkan penggunanya untuk melakukan perhitungan melalui biji-bijian geser yang diatur pada sebuah rak. 
+Para pedagang di masa itu menggunakan Abacus untuk menghitung transaksi perdagangan.
+
+Ketika kertas dan pensil mulai dikenal—terutama di Eropa—popularitas Abacus pun surut, karena orang merasa lebih mudah menggunakan kertas dan pena untuk menghitung daripada membawa-bawa Abacus
+
+Pada 1623, mesin penambah pertama di dunia dibuat. 
+Hal ini terungkap setelah Dr Franz Hammer, penulis biografi Johanner Kepler, menemukan surat yang ditulis Wilhem Shickard tentang alat penghitung pada 1623 dan 1624. Dalam surat tersebut, Shickard menjelaskan tentang jam penambah yang dia buat kepada Kepler. 
+Ini membuktikan bahwa Shickard merupakan penemu mesin penambah pertama, bukan Blaise Pascal pada 1642.
+
+pada tahun 1642, Blaise Pascal, yang waktu itu berumur 18 tahun, menemukan alat yang ia sebut kalkulator roda numerik (numerical wheel calculator) untuk membantu ayahnya melakukan perhitungan pajak.
+Kotak persegi kuningan itu kemudian dinamakan Pascaline. Cara penghitungannya menggunakan delapan roda putar bergerigi untuk menjumlahkan bilangan hingga delapan digit. Pascaline merupakan alat penghitung bilangan berbasis sepuluh, dan memiliki kelemahan khas—hanya terbatas untuk melakukan penjumlahan
+
+pada 1773, seorang pastor sekaligus ahli astronomi bernama Philip Matthäus Hahn bercita-cita merancang sebuah kalkulator yang dapat membantunya menghitung parameter jam dan planetarium. 
+Hahn membuat kalkulator dari 12 drum dalam sususan melingkar yang diaktifkan menggunakan putaran yang terletak di sumbu drum. 
+
+Memasuki tahun 1820, kalkulator mekanik mulai populer ketika Charles Xavier Thomas de Colmar menemukan mesin yang dapat melakukan empat fungsi aritmatik dasar. 
+Kalkulator mekanik buatan Colmar yang disebut Arithometer itu mampu melakukan penjumlahan, pengurangan, perkalian, dan pembagian. Dengan kemampuannya, Arithometer banyak digunakan hingga masa Perang Dunia I.
+
+Penemuan di atas semakin disempurnakan pada tahun 1931, ketika Vannevar Bush membuat kalkulator yang dapat menyelesaikan persamaan differensial, yang waktu itu dianggap rumit oleh kalangan akademisi. 
+Namun, kalkulator buatan Bush itu sangat besar sekaligus berat, karena menggunakan ratusan gerigi dan poros yang dibutuhkan untuk melakukan perhitungan.
+
+Sampai kemudian, pada tahun 1940, John V. Atanasoff dan Clifford Berry merancang kalkulator elektrik pertama, dengan menerapkan aljabar Boolean pada sirkuit elektrik. 
+Pendekatan itu didasarkan pada hasil kerja George Boole mengenai sistem biner aljabar, yang menyatakan bahwa setiap persamaan matematik dapat dinyatakan sebagai benar atau salah. 
+Kalkulator elektrik rancangan Atanasoff dan Berry mengaplikasikan kondisi benar-salah tersebut ke dalam sirkuit listrik dalam bentuk terhubung-terputus. 
+Proyek itu hampir berhasil, namun kemudian berhenti di tengah jalan karena kehabisan dana.
+Akhirnya, pada 1942, John Atasanoff dan Clifford Berry kembali meneruskan proyek mereka yang terputus itu, dan benar-benar berhasil menghadirkan kalkulator elektronik digital pertama
+
+Kemudian pada tahun 1963 perusahaan asal Inggris, Bell Punch dan Sumlock-Comptometer mengenalkan kalkulator bertenaga listrik. 
+Setahun kemudian, perusahaan asal Jepang menyempurnakan alat hitung tersebut dengan menambahkan komponen baru bernama transistor. Dengan adanya transistor, selain ukurannya dapat dibuat lebih kecil, kalkulator ini juga memiliki komputasi yang lebih baik dari produk pendahulunya. 
+Tahun 1969, perusahaan Jepang mengembangkan kalkulator berbasis chip. Setahun kemudian, produk ini dikembangkan agar dapat beroperasi menggunakan baterai yang dapat diisi ulang. Kalkulator ini semakin kecil ukurannya sejak ditemukannya teknologi Liquid Crystal Display (LCD). 
+Pada tahun 1976 kalkulator dengan LCD dan baterai mini mulai diproduksi dan dipasarkan.
+
+Selanjutnya, kalkulator terus berkembang hingga saat ini. Bahkan, saat ini kita dengan mudah mengaksesnya melalui perangkat telepon genggam atau komputer kita melalui Aplikasi maupun melalui Website, tertarik mencobanya?

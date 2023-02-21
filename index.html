@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejarah Kalkulator</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="assets/styles/style.css">
+	<script src="assets/styles/jquery.min.js"></script>
+	<script src="assets/styles/style.js"></script>
+	<link rel="stylesheet" type="text/css" href="assets/styles/font-awesome/css/font-awesome.min.css">
+</head>
+<body>
+	<header>
+		<div class="judul">
+			<h1>Kalkulator</h1>
+			<p id="subjudul">Mesin Hitung yang mengubah dunia</p>
+		</div>
+	<!--	<nav>
+			<ul>
+				<li><a href="#">Beranda</a></li>
+				<li><a id="sejarah-a">Sejarah Awal</a></li>
+				<li><a id="perkembangan-a">Perkembangan Kalkulator</a></li>
+				<li><a id="elektrik-a">Kalkulator Elektrik</a></li>
+			</ul>
+		</nav> -->
+		<nav class="pc" id="mobile">
+  			<a href="#" class="active">Beranda</a>
+		  	<a id="sejarah-a">Sejarah Awal</a>
+		  	<a  id="perkembangan-a">Perkembangan Kalkulator</a>
+		  	<a id="elektrik-a">Kalkulator Elektrik</a>
+		  	<a href="javascript:void(0);" class="icon" onclick="nav()">
+		    <i class="fa fa-bars"></i>
+		  	</a>
+		</nav>
+	</header>
+	<main>
+		<div id="nav-content" class="card">
+			<article class="nav-content">
+				<span class="nav-box">
+					<section class="box card" id="sejarah">
+						<img src="assets/image/ikon-sejarah.png">
+						<h1>Sejarah Awal Kalkulator</h1>
+					</section>
+					<section class="box card" id="perkembangan">
+						<img src="assets/image/ikon-perkembangan.png">
+						<h1>Perkembangan Kalkulator</h1>
+					</section>
+					<section class="box card" id="elektrik">
+						<img src="assets/image/ikon-kalkulator.png" id="small">
+						<h1>Kalkulator Elektrik</h1>
+					</section>
+				</span>
+			</article>
+			
+		</div>
+		<div id="content">
+			<article class="card">
+				<h2 id="sejarah-awal">Sejarah Awal</h2>
+				<figure>
+					<img src="assets/image/contoh-kalkulator.jpg">
+					<figcaption>Kalkulator</figcaption>
+				</figure>
+				<p>Kalkulator merupakan alat hitung yang praktis. 
+				Ada berbagai macam kalkulator, mulai dari yang sederhana seperti kalkulator dagang hingga scientific calculator yang menggunakan rumus-rumus rumit
+				Kalkulator juga merupakan salah satu alat yang akrab dengan kehidupan kita sehari-hari. 
+				Bahkan, alat hitung tersebut kini dengan mudah kita akses di telepon genggam. 
+				Namun, pernahkah Anda bertanya, bagaimana sejarah kalkulator hingga bisa digunakan seperti sekarang ini?</p>
+				<p>Asal usul kalkulator bisa dilacak hingga ke lima ribu tahun yang lalu (3000 SM), ketika bangsa Asia Kecil—dan di beberapa tempat lain—menggunakan alat hitung sederhana yang disebut Abacus. 
+				Alat tersebut memungkinkan penggunanya untuk melakukan perhitungan melalui biji-bijian geser yang diatur pada sebuah rak. 
+				Para pedagang di masa itu menggunakan Abacus untuk menghitung transaksi perdagangan.</p>
+				<figure class="gambar-artikel">
+					<img src="assets/image/abacus.png">
+					<figcaption>Abacus</figcaption>
+				</figure>
+				<p>Ketika kertas dan pensil mulai dikenal—terutama di Eropa—popularitas Abacus pun surut, karena orang merasa lebih mudah menggunakan kertas dan pena untuk menghitung daripada membawa-bawa Abacus</p>
+			</article>
+			<article class="card">
+				<h2 id="perkembangan-kalkulator">Perkembangan Kalkulator</h2>
+				<h3>Pada 1623, mesin hitung pertama di dunia dibuat. </h3>
+				<section>
+				<figure>
+					<img src="assets/image/Shickard.jpg">
+					<figcaption>Kalkulator Buatan Wilhem Shickard</figcaption>
+				</figure>
+				<p>Hal ini terungkap setelah Dr Franz Hammer, penulis biografi Johanner Kepler, menemukan surat yang ditulis Wilhem Shickard tentang alat penghitung pada 1623 dan 1624. Dalam surat tersebut, Shickard menjelaskan tentang jam penambah yang dia buat kepada Kepler. 
+				Ini membuktikan bahwa Shickard merupakan penemu mesin penambah pertama, bukan Blaise Pascal pada 1642.</p>
+				</section>
+				<section>
+					<h3>Pascaline</h3>
+					<figure>
+						<img src="assets/image/pascaline.jpg">
+						<figcaption>Pascaline</figcaption>
+					</figure>
+					<p>pada tahun 1642, Blaise Pascal, yang waktu itu berumur 18 tahun, menemukan alat yang ia sebut kalkulator roda numerik (numerical wheel calculator) untuk membantu ayahnya melakukan perhitungan pajak.
+					Kotak persegi kuningan itu kemudian dinamakan Pascaline. Cara penghitungannya menggunakan delapan roda putar bergerigi untuk menjumlahkan bilangan hingga delapan digit. Pascaline merupakan alat penghitung bilangan berbasis sepuluh, dan memiliki kelemahan khas—hanya terbatas untuk melakukan penjumlahan</p>
+				</section>
+				<section>
+					<h3>Hahn Machine</h3>
+					<figure>
+						<img src="assets/image/HahnMachine.jpg">
+						<figcaption>Kalkulator Buatan Philip Matthäus Hahn</figcaption>
+					</figure>
+					<p>pada 1773, seorang pastor sekaligus ahli astronomi bernama Philip Matthäus Hahn bercita-cita merancang sebuah kalkulator yang dapat membantunya menghitung parameter jam dan planetarium. 
+					Hahn membuat kalkulator dari 12 drum dalam sususan melingkar yang diaktifkan menggunakan putaran yang terletak di sumbu drum. </p>
+				</section>
+				<section>
+					<h3>Arithometer</h3>
+					<figure>
+						<img src="assets/image/Arithometer.jpg">
+						<figcaption>Kalkulator Buatan Charles Xavier Thomas de Colmar</figcaption>
+					</figure>
+					<p>Memasuki tahun 1820, kalkulator mekanik mulai populer ketika Charles Xavier Thomas de Colmar menemukan mesin yang dapat melakukan empat fungsi aritmatik dasar. 
+					Kalkulator mekanik buatan Colmar yang disebut Arithometer itu mampu melakukan penjumlahan, pengurangan, perkalian, dan pembagian. Dengan kemampuannya, Arithometer banyak digunakan hingga masa Perang Dunia I.</p>
+				</section>
+				<br>
+				<section>
+					<p>Penemuan di atas semakin disempurnakan pada tahun 1931, ketika Vannevar Bush membuat kalkulator yang dapat menyelesaikan persamaan differensial, yang waktu itu dianggap rumit oleh kalangan akademisi. 
+					Namun, kalkulator buatan Bush itu sangat besar sekaligus berat, karena menggunakan ratusan gerigi dan poros yang dibutuhkan untuk melakukan perhitungan.</p>
+					<figure>
+						<img src="assets/image/Vannevar-bush.jpg">
+						<figcaption>Vannevar Bush dan Kalkulator ciptaannya</figcaption>
+					</figure>
+				</section>
+			</article>
+			<article class="card">
+				<section>
+					<h3 id="kalkulator-elektrik">Kalkulator Elektrik</h3>
+					<p>Sampai kemudian, pada tahun 1940, John V. Atanasoff dan Clifford Berry merancang kalkulator elektrik pertama, dengan menerapkan aljabar Boolean pada sirkuit elektrik. 
+					Pendekatan itu didasarkan pada hasil kerja George Boole mengenai sistem biner aljabar, yang menyatakan bahwa setiap persamaan matematik dapat dinyatakan sebagai benar atau salah. 
+					Kalkulator elektrik rancangan Atanasoff dan Berry mengaplikasikan kondisi benar-salah tersebut ke dalam sirkuit listrik dalam bentuk terhubung-terputus. 
+					Proyek itu hampir berhasil, namun kemudian berhenti di tengah jalan karena kehabisan dana.
+					Akhirnya, pada 1942, John Atasanoff dan Clifford Berry kembali meneruskan proyek mereka yang terputus itu, dan benar-benar berhasil menghadirkan kalkulator elektronik digital pertama</p>
+					<figure>
+						<img src="assets/image/Atanasoff-Berry.jpg">
+						<figcaption>Kalkulator Elektrik Pertama</figcaption>
+					</figure>
+				</section>
+				<section>
+					<p>Kemudian pada tahun 1963 perusahaan asal Inggris, Bell Punch dan Sumlock-Comptometer mengenalkan kalkulator bertenaga listrik. 
+					Setahun kemudian, perusahaan asal Jepang menyempurnakan alat hitung tersebut dengan menambahkan komponen baru bernama transistor. Dengan adanya transistor, selain ukurannya dapat dibuat lebih kecil, kalkulator ini juga memiliki komputasi yang lebih baik dari produk pendahulunya.</p> 
+					<figure>
+						<img src="assets/image/bell-punch.jpg">
+						<figcaption>Kalkulator Elektrik Buatan Perusahaan Bell Punch</figcaption>
+					</figure>
+					<p>
+					Tahun 1969, perusahaan Jepang mengembangkan kalkulator berbasis chip. Setahun kemudian, produk ini dikembangkan agar dapat beroperasi menggunakan baterai yang dapat diisi ulang. Kalkulator ini semakin kecil ukurannya sejak ditemukannya teknologi Liquid Crystal Display (LCD). 
+					Pada tahun 1976 kalkulator dengan LCD dan baterai mini mulai diproduksi dan dipasarkan.</p>
+					<figure>
+						<img src="assets/image/kalkulator-lcd.jpg">
+						<figcaption>Kalkulator dengan LCD</figcaption>
+					</figure>
+					<br>
+					<br>
+					<p>Selanjutnya, kalkulator terus berkembang hingga saat ini. Bahkan, saat ini kita dengan mudah mengaksesnya melalui perangkat telepon genggam atau komputer kita melalui Aplikasi maupun melalui Website, tertarik mencobanya?</p>
+				</section>
+			</article>
+			<article class="card">
+				<h3>Contoh Kalkulator berbasis Website</h3>
+				<div class="flex-container-column card">
+		<div class="display">
+			<h1 id="displayNumber">0</h1>
+		</div>
+		<div class="flex-container-row">
+			<div class="button">7</div>
+			<div class="button">8</div>
+			<div class="button">9</div>
+			<div class="button negative double">+/-</div>
+		</div>
+		<div class="flex-container-row">
+			<div class="button">4</div>
+			<div class="button">5</div>
+			<div class="button">6</div>
+			<div class="button operator">-</div>
+			<div class="button operator">*</div>
+		</div>
+		<div class="flex-container-row">
+			<div class="button">1</div>
+			<div class="button">2</div>
+			<div class="button">3</div>
+			<div class="button operator">+</div>
+			<div class="button operator">/</div>
+		</div>
+		<div class="flex-container-row">
+			<div class="button clear">CE</div>
+			<div class="button double">0</div>
+			<div class="button equals double">=</div>
+		</div>
+	</div>
+	<script src="assets/styles/kalkulator.js"></script>
+			</article>
+		</div>
+
+		<aside>
+			<article class="profile card">
+				<h2>Profile</h2>
+				<img src="assets/image/profile.jpg" class="profile">
+				<section>
+					<table>
+						<tr>
+							<th>Nama:</th>
+							<td>Dimas Alfiansyah</td>
+						</tr>
+						<tr>
+							<th>Tempat, Tanggal Lahir</th>
+							<td>Jakarta 16 Maret 2000</td>
+						</tr>
+						<tr>
+							<th>Alamat Email</th>
+							<td>mr.zatfley@gmail.com</td>
+						</tr>
+					</table>
+				</section>
+			</article>
+		</aside>
+	</main>
+	<footer>
+		<p>Sejarah Kalkulator &#169; 2020, Dimas Alfiansyah</p>
+		<p>Sumber Referensi</p>
+		<a href="https://sains.kompas.com/read/2018/02/01/203300023/penemuan-yang-mengubah-dunia-kalkulator?page=all">Kompas</a>
+		<a href="https://sains.me/perkembangan-kalkulator-dari-masa-ke-masa/">sains.me</a>
+		<a href="https://www.belajarsampaimati.com/2012/04/kapan-kalkulator-digital-pertama-dibuat.html">belajarsampaimati.com</a>
+	</footer>
+</body>
+</html>
